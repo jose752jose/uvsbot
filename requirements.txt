@@ -7,7 +7,6 @@ ping3
 nmap 
 tcping 
 pyping 
-youtube_dl 
 requests_toolbelt 
 telethon 
 tenacity
