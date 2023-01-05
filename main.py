@@ -14,7 +14,6 @@ import xdlink
 import mediafire
 import datetime
 import time
-import youtube
 from pydownloader.downloader import Downloader
 from ProxyCloud import ProxyCloud
 import ProxyCloud
